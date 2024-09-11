@@ -1,2 +1,2 @@
 # try-dev
-try dev technologies
+This is my first repositry-Author Haroon Ahmad
